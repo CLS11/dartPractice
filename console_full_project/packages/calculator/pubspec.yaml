@@ -1,0 +1,10 @@
+name: calculator
+description: A simple calculator application.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  pedantic: ^1.11.1
+  # Add your dependencies here
