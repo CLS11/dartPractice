@@ -1,10 +1,12 @@
 import 'package:equatable/equatable.dart';
 
 void main(List<String> arguments) {
+  
   int a = 2;
   int b = 2;
   print(a == b);
-  //equality operator can be over readen in some cases
+
+  //equality operator can be over-ridden in some cases
 
   //For lists, they won't be constant without a const keyword
   var list1 = const [1, 2, 3];
