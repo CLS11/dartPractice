@@ -4,7 +4,7 @@
 //whose job is to create an instance of the class.
 
 void main(List<String> arg) {
-  final person1 = Person(name: 'Ariel', age: 27);
+  const person1 = Person(name: 'Ariel', age: 27);
   print(person1.name);
   print(person1.age);
 }
@@ -14,5 +14,5 @@ class Person {
   final int age;
 
   //constructor
-  Person({required this.name, required this.age});
+  const Person({required this.name, required this.age});
 }
