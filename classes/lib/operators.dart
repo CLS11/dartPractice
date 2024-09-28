@@ -5,6 +5,7 @@ void main() {
   var p2 = Point(x: 1, y: 1);
 
   p1 + p2;
+  
   print('p1+p2 ${p1 + p2}');
   p1 - p2;
   print('p1-p2 ${p1 - p2}');
