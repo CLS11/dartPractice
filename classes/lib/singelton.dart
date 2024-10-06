@@ -1,4 +1,4 @@
-//Singelton helps in insuring that a class has only 1 instance.
+//Singelton helps in ensuring that a class has only 1 instance.
 
 import 'dart:math';
 

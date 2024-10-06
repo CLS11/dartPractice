@@ -1,4 +1,4 @@
-//Insance methods serve a specific purpose in the class.
+//Instance methods serve a specific purpose in the class.
 
 import 'dart:math';
 
